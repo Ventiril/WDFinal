@@ -12,7 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('https://github.com/Ventiril/WDFinal/blob/5a47a6c9ba1ed25d2f5c04740f5fb5bb12ff3808/Assets/Dragon.jpg') no-repeat;
+    background: url('./Assets/Dragon.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
